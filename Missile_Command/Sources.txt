@@ -1,0 +1,26 @@
+Reference for city picture:
+Site address: https://pngtree.com/freepng/cartoon-building-green-picture_4649569.html
+Title: Cartoon BuildingGreen Picture
+Author: 588ku
+Licence: Attribution license
+
+Reference for destroyed city picture:
+Modified from the Cartoon BuildingGreen Picture above by Shirley Li.
+
+Reference for backgroundMusic:
+Site address: https://freesound.org/people/BloodPixel/sounds/507770/
+Title: Your last game.
+Author: BloodPixel
+Licence: Attribution licence.
+
+Reference for missileExplosionSound:
+Site address: https://www.zapsplat.com/sound-effect-category/explosions/page/2/
+Title: Large explosion with breaking glass
+Author: Zapsplat
+Licence: Standard license
+
+Reference for antiMissileSound:
+Site address: https://www.zapsplat.com/sound-effect-category/explosions/page/11/
+Title: Large explosion, boom, approx 200m distance
+Author: Zapsplat
+Licence: Standard license
